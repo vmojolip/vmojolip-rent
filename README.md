@@ -4,7 +4,7 @@ Fivem Rent vehicle Script with UI
 
 # Design:
 
-![image](https://github.com/user-attachments/assets/26622c35-92da-40e7-8b4e-3a5ef0a3a8ab)
+![image](https://github.com/user-attachments/assets/380c45d7-dccb-4585-89a4-865622efa8f2)
 
 # Preview:
 
