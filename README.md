@@ -12,7 +12,7 @@ Fivem Rent vehicle Script with UI
 
 # Preview:
 
-https://www.youtube.com/watch?v=tHlufJjOjDU
+ - https://www.youtube.com/watch?v=tHlufJjOjDU
 
 # Discord: (any problem with script? join to discord and tell to me!)
  - https://discord.gg/hpwgfABGdV
