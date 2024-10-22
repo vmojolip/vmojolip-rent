@@ -3,8 +3,8 @@
 Fivem Rent vehicle Script with UI
 
 # Requirements
+ - ESX (Framework)
  - ox_target
- - esx
 
 # Design:
 
